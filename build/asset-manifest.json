@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2804f9c7.css",
+    "main.js": "/static/js/main.2893e278.js",
+    "static/js/453.3c02ff54.chunk.js": "/static/js/453.3c02ff54.chunk.js",
+    "static/media/breakfastPhoto.png": "/static/media/breakfastPhoto.41c1b6525d0207c7ea22.png",
+    "static/media/italianSodaHeader.png": "/static/media/italianSodaHeader.75b5cb7478b150de585a.png",
+    "static/media/saturdayHeader.png": "/static/media/saturdayHeader.bf0467072fd25d6e5fea.png",
+    "static/media/coldPressHeader.png": "/static/media/coldPressHeader.1ba6f489ccdcdd29e841.png",
+    "static/media/brunchHeader.png": "/static/media/brunchHeader.7aaf7023c5a6756cf6ee.png",
+    "static/media/breakfastHeader.png": "/static/media/breakfastHeader.f4e84fc56ea56c111e46.png",
+    "static/media/smoothieHeader.png": "/static/media/smoothieHeader.fd6940352c36d69cd3c2.png",
+    "static/media/smoothie.png": "/static/media/smoothie.70036024d6f35a9760df.png",
+    "static/media/brunch.png": "/static/media/brunch.6a9377d61e4e8d4e9be8.png",
+    "static/media/bakeryHeader.png": "/static/media/bakeryHeader.3e1dbbccf9bcfa379da5.png",
+    "static/media/teaHeader.png": "/static/media/teaHeader.87d4ae72e45f3ad79830.png",
+    "static/media/bakery.png": "/static/media/bakery.64514bfb9b4ce3f844bb.png",
+    "static/media/saturdaySpecial.png": "/static/media/saturdaySpecial.61d2fb712769070d62ad.png",
+    "static/media/tea.png": "/static/media/tea.6351381416cafa471351.png",
+    "static/media/coldpress.png": "/static/media/coldpress.95495370bcb35fcfbad3.png",
+    "static/media/italianSoda.png": "/static/media/italianSoda.50e57b10ec7f2fbe0013.png",
+    "static/media/coffee.png": "/static/media/coffee.e41e43f0757af7ce1b95.png",
+    "static/media/placeholder.gif": "/static/media/placeholder.bb3f320c6f9f078a4829.gif",
+    "static/media/coffeeHeader.png": "/static/media/coffeeHeader.8515753004e0cfc816c1.png",
+    "static/media/menuHeader.png": "/static/media/menuHeader.676eadbab2dd9d24cef1.png",
+    "index.html": "/index.html",
+    "main.2804f9c7.css.map": "/static/css/main.2804f9c7.css.map",
+    "main.2893e278.js.map": "/static/js/main.2893e278.js.map",
+    "453.3c02ff54.chunk.js.map": "/static/js/453.3c02ff54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2804f9c7.css",
+    "static/js/main.2893e278.js"
+  ]
+}

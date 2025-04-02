@@ -1,0 +1,2920 @@
+[
+    {
+        "item_name": "Avocado salad",
+        "description": null,
+        "category_name": "BRUNCH",
+        "variants": [
+            {
+                "variant_id": "09052c07-3d60-4715-9fe3-ca8a68e7388b",
+                "default_price": 180.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 180.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "One piece of pancake",
+        "description": null,
+        "category_name": null,
+        "variants": [
+            {
+                "variant_id": "5ea6cfbc-38ff-4f27-8176-2cfb6c4379fc",
+                "default_price": 100.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 100.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "Extra Shot",
+        "description": null,
+        "category_name": "HOT DRINK",
+        "variants": [
+            {
+                "variant_id": "f7edef96-e75f-4ed2-aed0-307d67709212",
+                "default_price": 35.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 35.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "Bitcoff Latte",
+        "description": null,
+        "category_name": "COLD DRINK",
+        "variants": [
+            {
+                "variant_id": "cc864465-0034-40f9-a2d1-b1b9f7300fab",
+                "default_price": 130.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "Yogurt Smoothie Bowl",
+        "description": null,
+        "category_name": "SMOOTHIES",
+        "variants": [
+            {
+                "variant_id": "b062f794-d90c-4a8b-8ae4-58caa020c104",
+                "default_price": 200.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 200.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "Baked Beans",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "10e12dc3-0f44-48cc-b8ab-5f331d282da1",
+                "default_price": 50.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 50.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "Cap",
+        "description": null,
+        "category_name": "Grift",
+        "variants": [
+            {
+                "variant_id": "4adbf951-1747-46fb-8e20-e6bf2326868f",
+                "default_price": 750.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 750.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "Extra Shot",
+        "description": null,
+        "category_name": null,
+        "variants": [
+            {
+                "variant_id": "445e8205-c250-4e5d-af85-7b2075cfa57f",
+                "default_price": 35.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 35.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "HOT MILK",
+        "description": null,
+        "category_name": "HOT DRINK",
+        "variants": [
+            {
+                "variant_id": "5cb8fe74-0513-4c7e-928b-17292f4d57c8",
+                "default_price": 70.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 70.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "BLUECHEESE",
+        "description": null,
+        "category_name": "BRUNCH",
+        "variants": [
+            {
+                "variant_id": "62af2186-9dc4-440c-b2d4-e3fb94247e88",
+                "default_price": 30.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 30.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "b9e312bc-d547-4643-aa7e-6522a0171d3f",
+                "default_price": 55.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 55.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "MASH POTATOES",
+        "description": null,
+        "category_name": "BRUNCH",
+        "variants": [
+            {
+                "variant_id": "ba45d90d-65e7-4927-801e-f0fe5e822afe",
+                "default_price": 180.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 180.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "RED BEAN AND RICE",
+        "description": null,
+        "category_name": "BRUNCH",
+        "variants": [
+            {
+                "variant_id": "a5d7820b-a94c-4004-9083-487f2a69dd58",
+                "default_price": 150.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 150.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "RICE",
+        "description": null,
+        "category_name": "BRUNCH",
+        "variants": [
+            {
+                "variant_id": "a21524f8-4d24-46d8-a33e-efa2ad642e10",
+                "default_price": 30.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 30.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "GRILLED SHRMIPS",
+        "description": null,
+        "category_name": "BRUNCH",
+        "variants": [
+            {
+                "variant_id": "2560613f-f221-4723-ab73-b0e367c23933",
+                "default_price": 150.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 150.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "FRIED CHICKEN (PIECE)",
+        "description": null,
+        "category_name": "BRUNCH",
+        "variants": [
+            {
+                "variant_id": "5e159b18-5a7f-4718-92fb-7054ac9fc257",
+                "default_price": 100.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 100.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "19c8521f-dbf0-4464-ac58-c4fc2d01c568",
+                "default_price": 159.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 159.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "24692fcb-5471-445a-88cd-f208c2282604",
+                "default_price": 229.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 229.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "a97296a0-bce7-4544-b1e6-0178c5fccceb",
+                "default_price": 100.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 100.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "19a45f06-12b9-4eda-9e1b-cc41d38e23e7",
+                "default_price": 159.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 159.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "c3d765fd-bf48-47cd-a61f-e4af9a6aac7d",
+                "default_price": 229.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 229.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "SHRIMP AND GRITS",
+        "description": null,
+        "category_name": "BRUNCH",
+        "variants": [
+            {
+                "variant_id": "48d1d644-3c35-44b8-aae0-3e949a43e07f",
+                "default_price": 700.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 700.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "cd0c013c-e86f-4312-b726-b44656394079",
+                "default_price": 700.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 700.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "VEGGIE",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "1738f4a0-8d8f-4631-b2f8-3ee221109882",
+                "default_price": 10.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 10.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "FRUITS ON THE SIDE",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "8a6a2f91-30fc-4ccd-969d-4911c5447826",
+                "default_price": null,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": null,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "GRAVY ON THE SIDE",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "238c1087-a0c0-4eb1-af7e-53714f0d9b56",
+                "default_price": 50.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 50.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "CREAM CHEESE",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "4c91fe5d-0437-4e61-ac9c-f86ca2311ddf",
+                "default_price": 30.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 30.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "SALAD ON THE SIDE",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "c014e6e4-38e4-456c-98f6-238f8ebf1e3d",
+                "default_price": 50.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 50.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "AVOCADO",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "a6afc753-2bc6-4157-8ae2-1822dd764095",
+                "default_price": 60.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 60.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "OMELETTE",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "6cf981ca-58ef-4e55-91ca-0ed602ad5129",
+                "default_price": 80.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 80.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "BUILD YOUR OWN",
+        "description": null,
+        "category_name": "BREAKFAST",
+        "variants": [
+            {
+                "variant_id": "cf5aa81f-2527-4e91-bc4f-cb902baae044",
+                "default_price": 20.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 20.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "dcc576a3-0a4f-4d62-9e8f-fe5bbe03f4be",
+                "default_price": 50.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 50.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "84deb2d2-4325-4d1d-9635-7d786ea32052",
+                "default_price": 50.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 50.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "9dad9c16-1b4e-445d-8e7a-83d401b4b2cf",
+                "default_price": 90.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 90.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "PANCAKES",
+        "description": null,
+        "category_name": "BREAKFAST",
+        "variants": [
+            {
+                "variant_id": "0bfeab2f-86f6-4709-bfa9-321ba0c9bfca",
+                "default_price": 220.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 220.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "f78dc56e-c953-4275-a953-413971a90880",
+                "default_price": 300.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 300.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "82dbb633-5a14-48c0-931e-7de4c26d1667",
+                "default_price": 300.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 300.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "3e1f5542-deab-4b3a-9c02-df9254ded809",
+                "default_price": 300.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 300.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "CROISSANT HAM CHEESE",
+        "description": null,
+        "category_name": "BREAKFAST",
+        "variants": [
+            {
+                "variant_id": "9b05abcd-733a-4fb7-b3c0-0543d8c8d265",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "EGG BENEDICT",
+        "description": null,
+        "category_name": "BREAKFAST",
+        "variants": [
+            {
+                "variant_id": "788f2a11-5656-4a82-adfb-e7b3a3e1fe88",
+                "default_price": 220.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 220.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "CHOCOLATE SIDE",
+        "description": null,
+        "category_name": "BAKERY",
+        "variants": [
+            {
+                "variant_id": "a7dd33e9-deff-4aff-bda2-f1edff1a167f",
+                "default_price": 20.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 20.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "NUTELLA SIDE",
+        "description": null,
+        "category_name": "BAKERY",
+        "variants": [
+            {
+                "variant_id": "f6b82db4-00f1-4653-9f26-b111486f2d69",
+                "default_price": 20.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 20.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "STOOPWAFFLE",
+        "description": null,
+        "category_name": "BAKERY",
+        "variants": [
+            {
+                "variant_id": "01c45c83-e2a2-4306-af7a-22200ac6cb7c",
+                "default_price": 45.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 45.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "SNICKER",
+        "description": null,
+        "category_name": "BAKERY",
+        "variants": [
+            {
+                "variant_id": "0a1c9d9e-3992-468d-8124-79f3485b43b9",
+                "default_price": 35.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 35.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "BANANA STRAWBERRY SMOOTHIE",
+        "description": null,
+        "category_name": "SMOOTHIES",
+        "variants": [
+            {
+                "variant_id": "cae04db6-9561-4fc1-abae-998eaf1fc48d",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "BANANA MANGO SMOOTHIE",
+        "description": null,
+        "category_name": "SMOOTHIES",
+        "variants": [
+            {
+                "variant_id": "6dfa5d9a-3dbf-435a-a824-a20f37a10f00",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "MANGO STRAWBERRY SMOOTHIE",
+        "description": null,
+        "category_name": "SMOOTHIES",
+        "variants": [
+            {
+                "variant_id": "12f2667d-6956-4ef3-8c6d-bde9ea1a8645",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "WATER",
+        "description": null,
+        "category_name": "SOFT DRINK",
+        "variants": [
+            {
+                "variant_id": "6778c204-5ab4-46f1-9b34-4bcc38d5de79",
+                "default_price": 20.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 20.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "GINGER ALE",
+        "description": null,
+        "category_name": "SOFT DRINK",
+        "variants": [
+            {
+                "variant_id": "62052cd4-a9c7-4d30-ad7c-ca4826726a7f",
+                "default_price": 30.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 30.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "TONIC SCHWEEPPES",
+        "description": null,
+        "category_name": "SOFT DRINK",
+        "variants": [
+            {
+                "variant_id": "f0725286-2989-4b90-8110-eea792fa47b1",
+                "default_price": 30.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 30.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "FANTA",
+        "description": null,
+        "category_name": "SOFT DRINK",
+        "variants": [
+            {
+                "variant_id": "2c2c36a1-7aec-4f73-8d04-6e5eda95140d",
+                "default_price": 25.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 25.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "SPRITE",
+        "description": null,
+        "category_name": "SOFT DRINK",
+        "variants": [
+            {
+                "variant_id": "0bcf6bb0-4f19-4bb8-8047-140ebe32b303",
+                "default_price": 25.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 25.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "COKE ZERO",
+        "description": null,
+        "category_name": "SOFT DRINK",
+        "variants": [
+            {
+                "variant_id": "05bc7c22-2dbc-443e-86c4-3ff65e6d1a89",
+                "default_price": 25.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 25.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "CHANG BEER",
+        "description": null,
+        "category_name": "SOFT DRINK",
+        "variants": [
+            {
+                "variant_id": "dbecb387-7bd3-4b7b-95b5-6a96d82c72c9",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "ORANGE JUICE",
+        "description": null,
+        "category_name": "SOFT DRINK",
+        "variants": [
+            {
+                "variant_id": "2598b2e5-3b8d-4d2d-994d-7e8713a60790",
+                "default_price": 80.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 80.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "COLD MILK",
+        "description": null,
+        "category_name": "COLD DRINK",
+        "variants": [
+            {
+                "variant_id": "fe142065-47c1-473e-8c8c-78b51515d715",
+                "default_price": 75.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 75.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "ESPRESSO ORANGE",
+        "description": null,
+        "category_name": "COLD DRINK",
+        "variants": [
+            {
+                "variant_id": "8f8ac3e1-a951-4969-ae27-8180d434a7e3",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "ICE COCOA",
+        "description": null,
+        "category_name": "COLD DRINK",
+        "variants": [
+            {
+                "variant_id": "be3127e9-1950-4552-9443-0b181d86f20f",
+                "default_price": 95.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 95.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "ICE PREMIUM MATCHA LATTE",
+        "description": null,
+        "category_name": "COLD DRINK",
+        "variants": [
+            {
+                "variant_id": "380a54ac-cbcd-4521-b5aa-8490d0287fc6",
+                "default_price": 130.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 130.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "ES YEN",
+        "description": null,
+        "category_name": "COLD DRINK",
+        "variants": [
+            {
+                "variant_id": "4251d78a-7374-4ea8-8fbf-da36648041f4",
+                "default_price": 95.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 95.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "HOT ESPRESSO",
+        "description": null,
+        "category_name": "HOT DRINK",
+        "variants": [
+            {
+                "variant_id": "5cbda4f5-b342-4198-a24a-3318ed67c1d2",
+                "default_price": 65.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 65.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "GRITS",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "39e25cf5-b4b6-4f32-802e-c1ecb269c927",
+                "default_price": 180.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 180.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "BACON",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "ac8dd206-784d-4901-8204-f3302a4e2ce0",
+                "default_price": 100.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 100.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "CHEESE",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "e572fb16-b18b-47c6-a547-793f5f723b99",
+                "default_price": 35.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 35.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "HASH BROWN",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "8f3b1ccf-b915-48f4-9794-306597302335",
+                "default_price": 35.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 35.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "HAM",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "fb26e66e-efd7-416e-8b8a-7e29624f6755",
+                "default_price": 30.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 30.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "SCRAMBLE EGG",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "141a55d5-9882-4ce9-90a7-b49df66e36ae",
+                "default_price": 20.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 20.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "3b07e5d7-d015-42bb-9a98-818934bf9405",
+                "default_price": 40.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 40.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "b184e440-8a34-4c9d-8ff3-ef1185ab6e5d",
+                "default_price": 60.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 60.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "03c28368-08a3-4d7c-8908-dc70c3ebd209",
+                "default_price": 80.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 80.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "SMOKE SALMON",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "abec97fe-3602-4c31-af4f-0d28b625abfc",
+                "default_price": 80.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 80.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "SAUSAGE LINK",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "b581eacd-6e6f-4d72-8ea4-10dd93ccf98f",
+                "default_price": 60.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 60.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "CROISSANT CUSTOM",
+        "description": "<p>Create A Custom Croissant to Order</p>",
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "52625beb-b834-4046-9afa-0ed70e3281c4",
+                "default_price": 90.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 90.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "CRAFFLE",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "6e6c8f17-73c5-4f66-99cf-2043c6853235",
+                "default_price": 200.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 200.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "ENGLISH MUFFIN",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "c779b495-46d4-4623-b169-dd2cbb5b614d",
+                "default_price": 50.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 50.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "BREAKFAST PATTIES",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "ce382774-a398-4ff4-9903-e2e36599e3de",
+                "default_price": 85.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 85.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "WHITE BREAD",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "6390c095-55e0-409b-bd5a-7d64c69db4f0",
+                "default_price": 20.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 20.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "WHOLE WHEAT",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "03c497bb-3cd6-4d29-bd9d-70347a08a8ca",
+                "default_price": 30.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 30.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "HONEY LEMON SODA",
+        "description": null,
+        "category_name": "ITALIAN SODA",
+        "variants": [
+            {
+                "variant_id": "b2d717ea-4722-4f78-b170-3303a3a22fa9",
+                "default_price": 95.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 95.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "SOUTHERN FRIED SEABASS",
+        "description": null,
+        "category_name": "SATURDAY SPECIAL",
+        "variants": [
+            {
+                "variant_id": "4b60f00b-ae43-40d3-a177-5ed57c648049",
+                "default_price": 750.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 750.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "OXTAIL CHEESESSTEAK SANDWICH",
+        "description": null,
+        "category_name": "SATURDAY SPECIAL",
+        "variants": [
+            {
+                "variant_id": "53fcf88a-238c-4e50-9b8b-45b0b4e8bca5",
+                "default_price": 500.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 500.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "e84d14ba-cf85-4b03-baf9-c6b82b1855a2",
+                "default_price": 1000.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 1000.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "CHICKEN SALAD",
+        "description": null,
+        "category_name": "BRUNCH",
+        "variants": [
+            {
+                "variant_id": "d1eb37ae-f76b-4792-a99f-803999e3c02d",
+                "default_price": 200.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 200.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "29c844fb-e253-4e18-90af-d6e4b490123e",
+                "default_price": 200.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 200.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "CHICKEN WRAP",
+        "description": null,
+        "category_name": "BRUNCH",
+        "variants": [
+            {
+                "variant_id": "65d6697f-51df-436b-96d2-75dbb46d481a",
+                "default_price": 200.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 200.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "79ce16b2-89ce-41ae-9883-2e5d97d8d421",
+                "default_price": 200.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 200.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "CHEF SALAD",
+        "description": null,
+        "category_name": "BRUNCH",
+        "variants": [
+            {
+                "variant_id": "2204dfb8-43bd-4af7-840a-6c4edf656500",
+                "default_price": 180.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 180.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "CHICKEN AND CRAFFLE (WAFFLE)",
+        "description": null,
+        "category_name": "BRUNCH",
+        "variants": [
+            {
+                "variant_id": "6a195446-e8eb-45fd-a865-cc33797263ed",
+                "default_price": 359.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 359.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "SWEET POTATO FRIES",
+        "description": null,
+        "category_name": "BRUNCH",
+        "variants": [
+            {
+                "variant_id": "c9a46155-7e2c-4e46-ae72-e56218ce53b8",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "FRENCH FRIES",
+        "description": null,
+        "category_name": "BRUNCH",
+        "variants": [
+            {
+                "variant_id": "808ae2bb-3824-4cf8-bc03-19d4f3677d67",
+                "default_price": 80.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 80.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "SALMON CAKE",
+        "description": "<p id=\"isPasted\">Blackened salmon seasoning with house blend seasonings stuffed with cream cheese and spinach with a Cajun cream sauce served on your choice of grits, mash potatoes or rice.</p>",
+        "category_name": "BRUNCH",
+        "variants": [
+            {
+                "variant_id": "8cc83968-4220-40eb-9335-ff06e82788ce",
+                "default_price": 230.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 230.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "STUFFED SALMON",
+        "description": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p id=\"isPasted\">Blackened salmon seasoning with house blend seasonings stuffed with cream cheese and spinach with a Cajun cream sauce served on your choice of grits, mash potatoes or rice</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>",
+        "category_name": "BRUNCH",
+        "variants": [
+            {
+                "variant_id": "459b5fc4-1c49-4cf0-851b-1e221dc7c6f3",
+                "default_price": 550.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 550.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "be2625eb-8140-47cb-a658-060c65a23356",
+                "default_price": 550.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 550.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "c7f300d0-24d3-4309-8ab7-21bf1697fe28",
+                "default_price": 550.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 550.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "e613dd31-0d9e-4cfc-86d7-e8a92b95065e",
+                "default_price": 390.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 390.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "BUFFALO CHICKEN SANDWICH",
+        "description": null,
+        "category_name": "BRUNCH",
+        "variants": [
+            {
+                "variant_id": "d32df182-eb53-488e-84ea-751c45637331",
+                "default_price": 350.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 350.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "f84067b1-964d-4867-a9d4-757d202876d7",
+                "default_price": 350.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 350.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "BIG BURGER",
+        "description": null,
+        "category_name": "BRUNCH",
+        "variants": [
+            {
+                "variant_id": "ebc1c50f-1817-417f-8a1c-e946320565ab",
+                "default_price": 280.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 280.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "9eafa1a5-c7f8-4914-a4d0-d6706cae1b08",
+                "default_price": 480.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 480.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "61833f6a-bf7e-4474-bf3b-371e36dfb6aa",
+                "default_price": 680.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 680.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "CRAFFLE",
+        "description": null,
+        "category_name": "BREAKFAST",
+        "variants": [
+            {
+                "variant_id": "26f2668a-16f0-478d-8aab-082894bf2f85",
+                "default_price": 180.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 180.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "BISCUIT WITH HONEY AND JAM",
+        "description": null,
+        "category_name": "BREAKFAST",
+        "variants": [
+            {
+                "variant_id": "5c3e5460-af01-4ce4-8680-2bbc6cab3c03",
+                "default_price": 220.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 220.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "STUFFED FRENCH TOAST",
+        "description": null,
+        "category_name": "BREAKFAST",
+        "variants": [
+            {
+                "variant_id": "938dd1f1-430b-4855-9e22-c6c611db2abd",
+                "default_price": 270.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 270.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "BREAKFAST BURRITO",
+        "description": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p id=\"isPasted\">Homemade sausage, bacon, seasoned homestyle potatoes, eggs, cheese, tomatoes, onions, cilantro served with a creamy chili avocado sauce Add steak or shrimp for additional charge</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>",
+        "category_name": "BREAKFAST",
+        "variants": [
+            {
+                "variant_id": "ce011aef-47b7-4c89-b70d-ce16c0990656",
+                "default_price": 420.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 420.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "ENGLISH BREAKFAST",
+        "description": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p id=\"isPasted\">Two fried eggs served with 2 English style sausage link, cured ham and baked beans, along with a slice of buttered toast with jam</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>",
+        "category_name": "BREAKFAST",
+        "variants": [
+            {
+                "variant_id": "4fb58768-15f1-4387-8c13-175281ca1db7",
+                "default_price": 340.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 340.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "JULIAN'S SPECIAL BREAKFAST",
+        "description": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p id=\"isPasted\">2 of your choice style eggs, 2 chicken wings, 2 homemade Jimmy Dean style seasoned sausage patties, 1 hash brown or homestyle potatoes, with a side of homemade sausage herb gravy, served with a side of buttered white toast and strawberry jam.</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>",
+        "category_name": "BREAKFAST",
+        "variants": [
+            {
+                "variant_id": "b340ea1c-3836-4fb7-98c9-76b3ba788cef",
+                "default_price": 420.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 420.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "SMOKED SALMON AND CREAM CHEESE TOAST",
+        "description": null,
+        "category_name": "BREAKFAST",
+        "variants": [
+            {
+                "variant_id": "56e854fa-2026-4fb6-bb7d-378512725b51",
+                "default_price": 200.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 200.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "YOGURT SMOOTHIE BOWL",
+        "description": null,
+        "category_name": "SMOOTHIES",
+        "variants": [
+            {
+                "variant_id": "86ef8ff8-4f59-4e2b-98ac-78c8e2bcae5e",
+                "default_price": 200.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 200.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "BISCUITS AND GRAVY",
+        "description": null,
+        "category_name": "BREAKFAST",
+        "variants": [
+            {
+                "variant_id": "d3908973-c9aa-415c-b887-d30e8e0aa79c",
+                "default_price": 300.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 300.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "WHIPPING CREAM",
+        "description": null,
+        "category_name": "BAKERY",
+        "variants": [
+            {
+                "variant_id": "1a8c5e1e-2af4-4836-9d55-50a2e1ac3c89",
+                "default_price": 50.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 50.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "ICE CREAM",
+        "description": null,
+        "category_name": "BAKERY",
+        "variants": [
+            {
+                "variant_id": "e2f964a6-e1be-403e-87a7-379c1ba238e0",
+                "default_price": 50.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 50.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "BANANA MUFFIN",
+        "description": null,
+        "category_name": "BAKERY",
+        "variants": [
+            {
+                "variant_id": "7476ab21-d1ea-4707-a5e7-f6329c4f0aba",
+                "default_price": 35.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 35.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "COOKIES",
+        "description": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p id=\"isPasted\">Original Chocolate Chip/Peanut Butter/Triple Chocolate/Cookies and Cream</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>",
+        "category_name": "BAKERY",
+        "variants": [
+            {
+                "variant_id": "11de7c60-7fdc-44e9-8e22-28e86bea5d32",
+                "default_price": 180.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 180.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "a1b95ef9-3a34-4997-9329-182bd52bb473",
+                "default_price": 180.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 180.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "5cab4a6d-a95e-4ec8-8b1c-540a04432335",
+                "default_price": 180.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 180.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "3fd101d9-1a3d-452d-92c4-785e21e487d7",
+                "default_price": 180.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 180.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "82894ffb-0fa4-4eef-9554-f9dd051fce9e",
+                "default_price": 180.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 180.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "6fde66cd-147e-4697-a1d8-1d83862d2a69",
+                "default_price": 180.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 180.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "BACON TWIST",
+        "description": null,
+        "category_name": "BAKERY",
+        "variants": [
+            {
+                "variant_id": "59819514-15a6-4e1c-ae61-84f013193768",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "COKE",
+        "description": null,
+        "category_name": "SOFT DRINK",
+        "variants": [
+            {
+                "variant_id": "9c220083-1a47-4a6a-8ee6-8ac5c7a0b1e1",
+                "default_price": null,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 25.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "SODA",
+        "description": null,
+        "category_name": "SOFT DRINK",
+        "variants": [
+            {
+                "variant_id": "e56647b0-adcb-4f71-bd77-033114f4846a",
+                "default_price": 45.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 45.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "PEACH SODA",
+        "description": null,
+        "category_name": "ITALIAN SODA",
+        "variants": [
+            {
+                "variant_id": "f7405e01-4cc2-482e-b550-5dfd8fb863b6",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "YUZU SODA",
+        "description": null,
+        "category_name": "ITALIAN SODA",
+        "variants": [
+            {
+                "variant_id": "3338bcd3-fefa-44bc-999c-b7d65164bc57",
+                "default_price": 95.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 95.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "LEMON SODA",
+        "description": null,
+        "category_name": "ITALIAN SODA",
+        "variants": [
+            {
+                "variant_id": "08ff8f23-a150-49b0-9dc7-ac410650bc77",
+                "default_price": 95.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 95.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "ORANGE SODA",
+        "description": null,
+        "category_name": "ITALIAN SODA",
+        "variants": [
+            {
+                "variant_id": "a2f7c40f-1a3a-40ee-b702-f52dd7dac248",
+                "default_price": 95.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 95.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "AVOCADO TOAST",
+        "description": null,
+        "category_name": "BREAKFAST",
+        "variants": [
+            {
+                "variant_id": "6119665b-7bd5-4e90-9ce5-34c676d0cfe4",
+                "default_price": 190.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 190.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "COLD PRESS JUICE",
+        "description": null,
+        "category_name": "COLD PRESSED JUICE",
+        "variants": [
+            {
+                "variant_id": "9dc7b351-bfe9-4081-b9d0-70519df9fc43",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "d90cd285-e6cf-48db-b3e3-d8e295421b78",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "f397d864-4b21-40f8-9ba5-300e0936a09e",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "6308ff56-3ea8-432d-8cbd-931da27ff40e",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "e8332af9-3d15-4c67-a539-d7d40ae75f56",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "49d23077-df68-4ca2-ab33-5ecfc7519aa5",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "f10206d2-9d46-4998-832f-eb7225a8a666",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "STRAWBERRY SMOOTHIE",
+        "description": null,
+        "category_name": "SMOOTHIES",
+        "variants": [
+            {
+                "variant_id": "bdb95c88-9de1-4c11-b3f6-bcd51f459efb",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "MANGO PASSION SMOOTHIE",
+        "description": null,
+        "category_name": "SMOOTHIES",
+        "variants": [
+            {
+                "variant_id": "eb9bf65d-d33b-4899-8f6b-1d6938905f1c",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "MANGO SMOOTHIE",
+        "description": null,
+        "category_name": "SMOOTHIES",
+        "variants": [
+            {
+                "variant_id": "24f94621-420c-48ef-a006-d03c1a2cb119",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "LEMON MINT SMOOTHIE",
+        "description": null,
+        "category_name": "SMOOTHIES",
+        "variants": [
+            {
+                "variant_id": "0f1b6c7f-7202-4c7a-b20b-d39efdeaf8d5",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "BANANA SMOOTHIE",
+        "description": null,
+        "category_name": "SMOOTHIES",
+        "variants": [
+            {
+                "variant_id": "57a4db4a-9ada-411f-8b0a-4685a17d2210",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "HOT TEA",
+        "description": null,
+        "category_name": "TEA",
+        "variants": [
+            {
+                "variant_id": "54bf7460-baf6-42a0-9c88-225740a595ee",
+                "default_price": 75.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 75.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "PEACH ICE TEA",
+        "description": null,
+        "category_name": "TEA",
+        "variants": [
+            {
+                "variant_id": "65db19c1-9495-4358-8278-7ae5214b6dd5",
+                "default_price": 90.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 90.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "LEMON ICE TEA",
+        "description": null,
+        "category_name": "TEA",
+        "variants": [
+            {
+                "variant_id": "acdd6718-ec05-4aa6-bb3d-cb8664eaa4c5",
+                "default_price": 90.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 90.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "EXPRESSO LEMON",
+        "description": null,
+        "category_name": "COLD DRINK",
+        "variants": [
+            {
+                "variant_id": "bc5be401-7df3-4c0d-a479-037e11327ef6",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "ICE CAPPUCCINO",
+        "description": null,
+        "category_name": "COLD DRINK",
+        "variants": [
+            {
+                "variant_id": "564e1542-1250-4eb1-b55b-220abf0f08f1",
+                "default_price": 95.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 95.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "ICE MOCHA",
+        "description": null,
+        "category_name": "COLD DRINK",
+        "variants": [
+            {
+                "variant_id": "92863cb4-7843-4d8c-9ae0-2b591de2ba33",
+                "default_price": 95.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 95.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "ICE AMERICANO",
+        "description": null,
+        "category_name": "COLD DRINK",
+        "variants": [
+            {
+                "variant_id": "4407decd-9944-43f9-9778-7df019cc7f9c",
+                "default_price": 85.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 85.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "ICE LATTE",
+        "description": null,
+        "category_name": "COLD DRINK",
+        "variants": [
+            {
+                "variant_id": "f22a11af-8114-4fc0-80e5-d1ff92fb029a",
+                "default_price": 95.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 95.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "HOT COCOA",
+        "description": null,
+        "category_name": "HOT DRINK",
+        "variants": [
+            {
+                "variant_id": "2794af15-6f32-4b51-b177-4e3d91b55422",
+                "default_price": 85.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 85.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "HOT CARAMEL MACCHIATO",
+        "description": null,
+        "category_name": "HOT DRINK",
+        "variants": [
+            {
+                "variant_id": "f6138a34-3a4a-41ec-9a1b-4eac859cc594",
+                "default_price": 100.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 100.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "ICE CARAMEL MACCHIATO",
+        "description": null,
+        "category_name": "COLD DRINK",
+        "variants": [
+            {
+                "variant_id": "1863d62e-4036-4dd5-a881-fe35b9e3a8d6",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "HOT AMERICANO",
+        "description": null,
+        "category_name": "HOT DRINK",
+        "variants": [
+            {
+                "variant_id": "de099146-9423-472c-b643-476d0e0e8c16",
+                "default_price": 70.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 70.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "HOT PREMIUM MATCHA LATTEE",
+        "description": null,
+        "category_name": "HOT DRINK",
+        "variants": [
+            {
+                "variant_id": "c13f0a73-6340-4830-b934-be614f5aa118",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "HOT CAPPUCCINO",
+        "description": null,
+        "category_name": "HOT DRINK",
+        "variants": [
+            {
+                "variant_id": "1793a93a-0342-4974-b504-a86b46dd9e19",
+                "default_price": 85.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 85.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "HOT FLAT WHITE",
+        "description": null,
+        "category_name": "HOT DRINK",
+        "variants": [
+            {
+                "variant_id": "0e47bce7-41a4-4060-8cfc-6fac84f89932",
+                "default_price": 85.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 85.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "HOT MOCA",
+        "description": null,
+        "category_name": "HOT DRINK",
+        "variants": [
+            {
+                "variant_id": "e6690457-1c69-41de-a446-2d7d39b48e3c",
+                "default_price": 85.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 85.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "OXTAILS",
+        "description": null,
+        "category_name": "SATURDAY SPECIAL",
+        "variants": [
+            {
+                "variant_id": "e23ad891-3eb9-41e0-99a5-c574d0b58e03",
+                "default_price": 900.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 900.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "34d51ed8-5e69-4127-a430-97b28a8bf760",
+                "default_price": 900.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 900.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "7b740c23-319a-4305-8416-62aad4541887",
+                "default_price": 900.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 900.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "8ee2d7fe-c46b-40da-9ea2-2af53da910b9",
+                "default_price": 900.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 900.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "18a568b5-a4a5-4813-a88f-e97a8331efde",
+                "default_price": 900.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 900.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "2bb593e0-f6cd-4275-a460-5cce5a8b99a8",
+                "default_price": 700.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 700.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "SOUTHERN STYLE CHICKEN SANDWICH",
+        "description": null,
+        "category_name": "BRUNCH",
+        "variants": [
+            {
+                "variant_id": "f33eca06-5674-4923-874a-6b79d3ced1b5",
+                "default_price": 220.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 220.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "f4d7f1c8-ead8-4296-a4ac-9dc5c0a1f801",
+                "default_price": 220.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 220.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "LOBSTER SHRIMP AND GRITS",
+        "description": null,
+        "category_name": "BRUNCH",
+        "variants": [
+            {
+                "variant_id": "770fdfa6-5ce3-49b1-9b86-fd5109f59d4d",
+                "default_price": 1200.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 1200.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "666d0211-7789-4234-a676-5fe4c7bf5af6",
+                "default_price": 1200.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 1200.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "HOME STYLE POTATO",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "b3b31e09-c289-4dac-8d85-6639de21b154",
+                "default_price": 35.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 35.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "FRIED EGG",
+        "description": null,
+        "category_name": "BUILD YOUR OWN",
+        "variants": [
+            {
+                "variant_id": "ee0a6fec-844a-403b-9530-faf00b8df627",
+                "default_price": 20.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 20.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "722c56c8-7e85-4b55-832f-2b4be349abaa",
+                "default_price": 20.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 20.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "799968c3-b556-40a8-ad0d-13ff42ba312c",
+                "default_price": 20.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 20.0,
+                        "available_for_sale": true
+                    }
+                ]
+            },
+            {
+                "variant_id": "ec342ec0-c595-4c19-971a-ca894b4d6842",
+                "default_price": 20.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 20.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "OATMEAL BOWL",
+        "description": null,
+        "category_name": "BREAKFAST",
+        "variants": [
+            {
+                "variant_id": "32d7dbc2-de22-4658-a08f-ada47e5d54d5",
+                "default_price": 180.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 180.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "AMERICAN BREAKFAST",
+        "description": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p id=\"isPasted\">Two scrambled eggs served with 2 homemade Jimmy Dean style seasoned sausage patties, and 2 piece of Bacon, 1 hash brown, and side of Seasoned homestyle potatoes with a side of buttered fresh baked whole grain toast with a side of strawberry jam. Make it a set with a side of chicken and pancakes for additional charge</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>",
+        "category_name": "BREAKFAST",
+        "variants": [
+            {
+                "variant_id": "003207a2-6845-4302-ad5c-ad287d887134",
+                "default_price": 360.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 360.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "BROWNIE",
+        "description": null,
+        "category_name": "BAKERY",
+        "variants": [
+            {
+                "variant_id": "a619a612-93f9-48fa-b3a9-109156137d3e",
+                "default_price": 60.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 60.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "CROISSANT",
+        "description": null,
+        "category_name": "BAKERY",
+        "variants": [
+            {
+                "variant_id": "9f9ad147-d7eb-4eb4-b6d1-58c1933ae5d9",
+                "default_price": 90.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 90.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "SINGHA BEER",
+        "description": null,
+        "category_name": "SOFT DRINK",
+        "variants": [
+            {
+                "variant_id": "63e490e8-6f19-444b-aa48-74d23cdaf1aa",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "STRAWBERRY SODA",
+        "description": null,
+        "category_name": "ITALIAN SODA",
+        "variants": [
+            {
+                "variant_id": "1a0e095a-dd8e-489c-a2a9-87cc8b42a4fe",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "PASSION FRUIT SMOOTHIE",
+        "description": null,
+        "category_name": "SMOOTHIES",
+        "variants": [
+            {
+                "variant_id": "296f9ffd-b510-4a9b-add8-709051bb6a33",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "WATERMELON SMOOTHIE",
+        "description": null,
+        "category_name": "SMOOTHIES",
+        "variants": [
+            {
+                "variant_id": "ce4bca7b-ba82-4052-a902-9709d543e61e",
+                "default_price": 120.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 120.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "THAI MILK TEA",
+        "description": null,
+        "category_name": "TEA",
+        "variants": [
+            {
+                "variant_id": "43ae3110-2b2f-476d-9520-253af2963dd4",
+                "default_price": 90.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 90.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "GREEN MILK TEA",
+        "description": null,
+        "category_name": "TEA",
+        "variants": [
+            {
+                "variant_id": "424db9cb-5087-41d1-8f25-236f826b4d75",
+                "default_price": 90.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 90.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_name": "HOT LATTE",
+        "description": null,
+        "category_name": "HOT DRINK",
+        "variants": [
+            {
+                "variant_id": "2c6d9d7c-00ea-4733-809b-a28ef6e8988d",
+                "default_price": 85.0,
+                "stores": [
+                    {
+                        "store_id": "17d2d59c-227a-4929-92bb-fa67a57247c2",
+                        "price": 85.0,
+                        "available_for_sale": true
+                    }
+                ]
+            }
+        ]
+    }
+]
