@@ -41,21 +41,20 @@ logging.basicConfig(level=logging.DEBUG)
 
 # Flask application setup
 app = Flask(__name__, static_folder='build', static_url_path='/')
-app.secret_key = 'b1a2c3d4e5f67890abcd1234ef567890'
+app.secret_key = os.getenv('APP_SECRET_KEY')
+app_url = os.getenv('APP_URL')
 
 # Cache configuration (using simple cache; use 'redis' for Redis-backed cache)
 cache = Cache(app, config={'CACHE_TYPE': 'simple'})
 
 # CORS configuration: Allow requests from specific domains
 CORS(app, resources={r"/*": {"origins": [
-    "https://qultureloungemenudevelopment.netlify.app", 
-    "http://localhost:3000"
+    app_url
 ]}})
 
 # SocketIO setup with CORS allowed origins
 socketio = SocketIO(app, cors_allowed_origins=[
-    "https://qultureloungemenudevelopment.netlify.app", 
-    "http://localhost:3000"
+    app_url
 ])
 
 # =============================================================
@@ -77,8 +76,8 @@ DATABASE_URL = os.getenv('DATABASE_URL')
 
 # Skycore Wallet API
 WALLET_API_URL = 'https://api.skycore.com/API/http/v3/'
-WALLET_API_KEY = "Fh8t0vD39GQKQsy8jvV57DC4LSpHHlUT"
-PASS_TEMPLATE_ID = '83e6d7afcd00479cf726762bc4b5c21e4e5cc8d1'
+WALLET_API_KEY = os.getenv
+PASS_TEMPLATE_ID = os.getenv('PASS_TEMPOLATE_ID')
 
 # OpenAI API
 API_KEY = os.getenv('OPENAI_API_KEY')
@@ -90,11 +89,11 @@ else:
 client = OpenAI()
 
 # LINE Messaging API
-LINE_CHANNEL_ACCESS_TOKEN = 'BnL2LlpBueGDVZWZr5lqLCLO8G9lj6OOyoKefNXCJ8XEN2uDSM4tMq5Is+1G3bGTXbqbqRCB0dn7n+ALg3CoRqto9oTamUv8/SsDu6IKZHUc4uYrQWo+0jaKIawKe1WeX6A3JE3k6LxGXin+HheVKQdB04t89/1O/w1cDnyilFU='
+LINE_CHANNEL_ACCESS_TOKEN =os.getenv('LINE_ACCESS')
 LINE_REPLY_API_URL = 'https://api.line.me/v2/bot/message/reply'
-LINE_CHANNEL_ID = '2006031747'
-LINE_CHANNEL_SECRET = '807a6d71807843f3e8d871aaca5ccb3e'
-LINE_REDIRECT_URI = 'https://qulturemenuflaskbackend-5969f5ac152a.herokuapp.com/callback'
+LINE_CHANNEL_ID = os.getenv('LINE_CHANNEL_ID')
+LINE_CHANNEL_SECRET = os.getenv('LINE_CHANNEL_SECRET')
+LINE_REDIRECT_URI = os.getenv('LINE_REDIRECT_URI')
 LINE_AUTH_URL = 'https://access.line.me/oauth2/v2.1/authorize'
 LINE_TOKEN_URL = 'https://api.line.me/oauth2/v2.1/token'
 LINE_PROFILE_URL = 'https://api.line.me/v2/profile'
@@ -125,7 +124,7 @@ def get_db_connection():
 
 @app.after_request
 def after_request(response):
-    response.headers.add('Access-Control-Allow-Origin', '*')  # Avoid setting this manually if Flask-CORS is used
+    response.headers.add('Access-Control-Allow-Origin', '*') 
     response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization')
     response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS')
     return response
@@ -329,7 +328,7 @@ def webhook_receipts():
     try:
         receipts = payload.get('receipts', [])
         for receipt in receipts:
-            loyverse_id = receipt.get('customer_id')  # Assuming customer_id is the loyverse_id
+            loyverse_id = receipt.get('customer_id') 
             points_balance = receipt.get('points_balance', 0)
 
             if loyverse_id:
@@ -432,7 +431,7 @@ def generate_chat_response(user_id, thread_id, text_transcript):
     # Create and poll the run for the given thread
     run = client.beta.threads.runs.create(
         thread_id=thread_id, 
-        assistant_id='asst_VV46jnIhXY2RPOy4KVA39Qux'
+        assistant_id= os.getenv('ASSISTANT_ID_OPENAI')
     )
     run_id = run.id
     run = client.beta.threads.runs.poll(thread_id=thread_id, run_id=run_id)
@@ -585,7 +584,7 @@ def callback():
     cursor.close()
     conn.close()
 
-    frontend_url = 'https://qultureloungemenudevelopment.netlify.app/line-login'  # Replace with your production URL
+    frontend_url = os.getenv('FRONTEND_URL')  
 
     # Redirect to the appropriate frontend URL with the user ID, display name, code, and user status
     return redirect(f'{frontend_url}?line_id={line_id}&display_name={display_name}&account={new_code}&status={user_status}')
@@ -915,7 +914,7 @@ def generate_chat_response2(thread_id, text_transcript):
     # Create and poll the run for the given thread
     run = client.beta.threads.runs.create(
         thread_id=thread_id, 
-        assistant_id='asst_VV46jnIhXY2RPOy4KVA39Qux'
+        assistant_id = os.getenv('ASSISTANT_ID_OPENAI')
     )
     run_id = run.id
     run = client.beta.threads.runs.poll(thread_id=thread_id, run_id=run_id)
